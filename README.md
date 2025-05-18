@@ -3,11 +3,11 @@
 
 - 🔭 I have projects in **Reactjs, Nodejs, Angular**
 
-- 🌱 I’m currently learning **Vuejs**
+- 🌱 I am working as a software engineer at 4GoodAI.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Krutarth141](https://github.com/Krutarth141)
 
-- 📫 How to reach me **krutarth.t@ahduni.edu.in**
+- 📫 How to reach me **krutarthtrivedi2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
